@@ -1,0 +1,22 @@
+{
+  "name": "s.o.l.i.d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammad2174/S.O.L.I.D.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammad2174/S.O.L.I.D/issues"
+  },
+  "homepage": "https://github.com/mohammad2174/S.O.L.I.D#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
